@@ -2,8 +2,8 @@ run_Analysis <- function() {
 
 ##run_Analysis.R
 
-##This Function will install the library reshape2 and assumes that its already insyalled.
-##The woorking Directory has been set to the root of extracted data folder 
+##This Function will load the library reshape2 and assumes that its already installed.
+##The working Directory has been set to the root of extracted data folder 
 
 
 library(reshape2)
